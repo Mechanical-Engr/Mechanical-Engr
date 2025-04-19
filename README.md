@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World!, Myself Md. Shafayat Ullah Shanto, a Bangladeshi MEP Mechanical Design Engineer 👋🏼:
+🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studied bsc in mechanical engineering at International University of Business Agriculture and Technology<br>👨🏼‍💻 working as a mep design engineer since 2024 <br>
 
 
 # 💻 Tech Stack:
