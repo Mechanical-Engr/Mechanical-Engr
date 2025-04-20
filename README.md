@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="Banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 Hi 👋, Myself MD. SHAFAYAT ULLAH SHANTO
 **A passionate MEP Design Engineer || Mechanical Engineer || From Bangladesh**
