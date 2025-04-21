@@ -20,9 +20,6 @@ Mechanical Design Engineer with 1+ years’ experience in MEP(Mechanical) system
 
 # 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mechanical-engr&label=Profile%20views&color=0e75b6&style=flat" alt="mechanical-engr" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mechanical-engr" alt="mechanical-engr" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mechanical-engr&show_icons=true&locale=en" alt="mechanical-engr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mechanical-engr&" alt="mechanical-engr" /></p>
 
@@ -31,3 +28,6 @@ Mechanical Design Engineer with 1+ years’ experience in MEP(Mechanical) system
 <a href="https://linkedin.com/in/md-shafayat-ullah-shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shafayat-ullah-shanto" height="30" width="40" /></a>
 <a href="https://fb.com/md.shafayatullahshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.shafayatullahshanto" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mechanical-engr" alt="mechanical-engr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
