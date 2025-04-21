@@ -1,7 +1,7 @@
 <img src="Banner.png" alt="GitHub Banner" width="100%" />
 
-# <h1 align="center"> 💫 Hi 👋, Myself MD. SHAFAYAT ULLAH SHANTO</h1>
-**A passionate MEP Design Engineer || Mechanical Engineer || From Bangladesh**
+# <h1 align="center"> 👋 Hi, Myself MD. SHAFAYAT ULLAH SHANTO</h1>
+<h3 align="center"> A passionate MEP Design Engineer || Mechanical Engineer || From Bangladesh</h3>
 
 👨🏼‍🎓 Studied BSc in Mechanical Engineering from International University of Business Agriculture and Technology<br>
 👨🏼‍💻 Working as a MEP Mechanical Design Engineer since 2024<br>
