@@ -21,18 +21,28 @@ Email Me 👉 ✉️ **mshanto.me@gmail.com** For Collaboration/Project or Anyth
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mechanical-engr" alt="mechanical-engr" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechanical-engr&show_icons=true&locale=en&layout=compact" alt="mechanical-engr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mechanical-engr&show_icons=true&locale=en" alt="mechanical-engr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mechanical-engr&" alt="mechanical-engr" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-shafayat-ullah-shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shafayat-ullah-shanto" height="30" width="40" /></a>
 <a href="https://fb.com/md.shafayatullahshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.shafayatullahshanto" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechanical-engr&show_icons=true&locale=en&layout=compact" alt="mechanical-engr" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mechanical-engr&show_icons=true&locale=en" alt="mechanical-engr" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mechanical-engr&" alt="mechanical-engr" /></p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdshafayatullahshanto/mdshafayatullahshanto/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mdshafayatullahshanto/mdshafayatullahshanto/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
+
