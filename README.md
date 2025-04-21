@@ -5,7 +5,7 @@
 
 👨🏼‍🎓 Studied BSc in Mechanical Engineering from International University of Business Agriculture and Technology<br>
 👨🏼‍💻 Working as a MEP Mechanical Design Engineer since 2024<br>
-Email Me 👉 ✉️ **mshanto.me@gmail.com** For Collaboration/Project or Anything Else.
+✉️ Email Me 👉 **mshanto.me@gmail.com** For Collaboration/Project or Anything Else.
 
 -  **I’m currently working on:** Shimizu-BGD ARTNATURE NEW PROJECT
 -  **I’m currently learning:** Supply Chain Management
